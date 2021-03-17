@@ -1,7 +1,9 @@
 
 Hola. Soy Jesús Viana
+___________________________________________________________________
 
-⚡ Tecnología
+🔭 I’m currently working on Psious and Kiko Palomares Academy
+🌱 I make videos on my Youtube Channel
+📫 You can reach me on Instagram
+🤡 Fun fact: I make memes on Instagram
 
-
-JavaScript React HTML5 CSS3 Bootstrap MySQL Git GitHub
